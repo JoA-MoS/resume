@@ -1,0 +1,26 @@
+{
+    "resume": {
+        "firstName": "Justin",
+        "lastName:": "Dietz",
+        "sections": [
+            {
+                "title": "Summary",
+                "subSections": [
+                    {
+                        "title": "Software Engineer, Technical Architect",
+                        "body": "Software Engineer with tech industry experience in many roles including: developer, technical architect, project manager, analyst, tester, I am now focusing my career in the Software Engineering."
+                    }
+                ]
+            },
+            {
+                "title": "Experience",
+                "subSections": [
+                    {
+                        "title": "Software Engineer, Technical Architect",
+                        "body": "<p>Responsible for all CoMotion’s IT hardware, systems, and support. Managed development team and external contractors in fulfilling new feature requests and bug fixes. </p> <ul> <li><strong>Implemented:</strong> Project Management System using Visual Studio Team Services (VSTS). Continuous Integration and Continuous Deployment from VSTS to on premise systems, Customized SharePoint Intranet. Mentor Matching System using Chronus.</li> <li><strong>Architected:</strong> Online form for users to interact with the CoMotion Office using Angular front end, a C# webservice backend, and a C# client for processing and reviewing submittals before transferring to official backend. Designed, Developed, and modified Angular UI, C# webservice.</li> <li><strong>Development:</strong> Created, Maintained, and Enhanced C# webservice, C# Windows Forms, Angular Application, SQL-CLR functions, and Ruby and Rails solutions. Defined Development standards and frameworks for new applications.</li> </ul>"
+                    }
+                ]
+            }
+        ]
+    }
+}
